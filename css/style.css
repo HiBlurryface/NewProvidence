@@ -895,10 +895,6 @@ section {
 	flex-direction: row;
 	align-items: center;
 }
-.freebies__link {
-	color: #3b55e6;
-	margin-left: 3px;
-}
 .made {
 	margin-right: 20px;
 	color: #26272d;
